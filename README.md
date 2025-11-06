@@ -30,7 +30,7 @@ Focado em soluções back-end com Java/Spring e desenvolvimento de aplicações 
 <p>Confira meu currículo interativo com meus projetos, habilidades e formação:</p>
 <p>
 <a href="https://gabrielcardoso76.github.io/Curriculo/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver%2520Portf%C3%B3lio-%2523E50914%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Ver Portfólio">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver%2520Portf%25C3%25B3lio-%2523E50914%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Ver Portfólio">
 </a>
 </p>
 
