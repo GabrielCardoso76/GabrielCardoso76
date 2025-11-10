@@ -59,7 +59,7 @@ Focado em soluções back-end com Java/Spring e desenvolvimento de aplicações 
 
 <p align="center">
 <!-- Ícones das tecnologias que você listou no currículo -->
-<img src="httpshttps://skillicons.dev/icons?i=java,spring,react,ts,py,html,css,git,azure,reactnative" alt="Tecnologias">
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,py,html,css,git,azure,reactnative" alt="Tecnologias">
 </p>
 
 📊 Minhas Estatísticas no GitHub:
